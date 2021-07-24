@@ -1,0 +1,102 @@
+C:\Users\MSI PC\Desktop\Store App Project\Store_App_Project\Project\bin\Debug\Project.exe.config
+C:\Users\MSI PC\Desktop\Store App Project\Store_App_Project\Project\bin\Debug\Project.exe
+C:\Users\MSI PC\Desktop\Store App Project\Store_App_Project\Project\bin\Debug\Project.pdb
+C:\Users\MSI PC\Desktop\Store App Project\Store_App_Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\MSI PC\Desktop\Store App Project\Store_App_Project\Project\obj\Debug\MainWindow.g.cs
+C:\Users\MSI PC\Desktop\Store App Project\Store_App_Project\Project\obj\Debug\App.g.cs
+C:\Users\MSI PC\Desktop\Store App Project\Store_App_Project\Project\obj\Debug\Project_MarkupCompile.cache
+C:\Users\MSI PC\Desktop\Store App Project\Store_App_Project\Project\obj\Debug\Project_MarkupCompile.lref
+C:\Users\MSI PC\Desktop\Store App Project\Store_App_Project\Project\obj\Debug\MainWindow.baml
+C:\Users\MSI PC\Desktop\Store App Project\Store_App_Project\Project\obj\Debug\Project.g.resources
+C:\Users\MSI PC\Desktop\Store App Project\Store_App_Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\MSI PC\Desktop\Store App Project\Store_App_Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\MSI PC\Desktop\Store App Project\Store_App_Project\Project\obj\Debug\Project.exe
+C:\Users\MSI PC\Desktop\Store App Project\Store_App_Project\Project\obj\Debug\Project.pdb
+C:\Users\MSI PC\Desktop\Store App Project\Store_App_Project\Project\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MSI PC\Desktop\Store App Project\Store_App_Project\Project\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI PC\Desktop\Store App Project\Store_App_Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\IsDB BISEW\M02_C#\Store App Project\Store_App_Project\Project\bin\Debug\Project.exe.config
+D:\IsDB BISEW\M02_C#\Store App Project\Store_App_Project\Project\bin\Debug\Project.exe
+D:\IsDB BISEW\M02_C#\Store App Project\Store_App_Project\Project\bin\Debug\Project.pdb
+D:\IsDB BISEW\M02_C#\Store App Project\Store_App_Project\Project\bin\Debug\Newtonsoft.Json.dll
+D:\IsDB BISEW\M02_C#\Store App Project\Store_App_Project\Project\bin\Debug\Newtonsoft.Json.xml
+D:\IsDB BISEW\M02_C#\Store App Project\Store_App_Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\IsDB BISEW\M02_C#\Store App Project\Store_App_Project\Project\obj\Debug\MainWindow.g.cs
+D:\IsDB BISEW\M02_C#\Store App Project\Store_App_Project\Project\obj\Debug\App.g.cs
+D:\IsDB BISEW\M02_C#\Store App Project\Store_App_Project\Project\obj\Debug\Project_MarkupCompile.cache
+D:\IsDB BISEW\M02_C#\Store App Project\Store_App_Project\Project\obj\Debug\Project_MarkupCompile.lref
+D:\IsDB BISEW\M02_C#\Store App Project\Store_App_Project\Project\obj\Debug\MainWindow.baml
+D:\IsDB BISEW\M02_C#\Store App Project\Store_App_Project\Project\obj\Debug\Project.g.resources
+D:\IsDB BISEW\M02_C#\Store App Project\Store_App_Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\IsDB BISEW\M02_C#\Store App Project\Store_App_Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\IsDB BISEW\M02_C#\Store App Project\Store_App_Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\IsDB BISEW\M02_C#\Store App Project\Store_App_Project\Project\obj\Debug\Project.exe
+D:\IsDB BISEW\M02_C#\Store App Project\Store_App_Project\Project\obj\Debug\Project.pdb
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store App Project\Store_App_Project\Project\bin\Debug\Project.exe.config
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store App Project\Store_App_Project\Project\bin\Debug\Project.exe
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store App Project\Store_App_Project\Project\bin\Debug\Project.pdb
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store App Project\Store_App_Project\Project\bin\Debug\Newtonsoft.Json.dll
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store App Project\Store_App_Project\Project\bin\Debug\Newtonsoft.Json.xml
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store App Project\Store_App_Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store App Project\Store_App_Project\Project\obj\Debug\MainWindow.g.cs
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store App Project\Store_App_Project\Project\obj\Debug\App.g.cs
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store App Project\Store_App_Project\Project\obj\Debug\Project_MarkupCompile.cache
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store App Project\Store_App_Project\Project\obj\Debug\Project_MarkupCompile.lref
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store App Project\Store_App_Project\Project\obj\Debug\MainWindow.baml
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store App Project\Store_App_Project\Project\obj\Debug\Project.g.resources
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store App Project\Store_App_Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store App Project\Store_App_Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store App Project\Store_App_Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store App Project\Store_App_Project\Project\obj\Debug\Project.exe
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store App Project\Store_App_Project\Project\obj\Debug\Project.pdb
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\Store_App_Project\Project\bin\Debug\Project.exe.config
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\Store_App_Project\Project\bin\Debug\Project.exe
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\Store_App_Project\Project\bin\Debug\Project.pdb
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\Store_App_Project\Project\bin\Debug\Newtonsoft.Json.dll
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\Store_App_Project\Project\bin\Debug\Newtonsoft.Json.xml
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\Store_App_Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\Store_App_Project\Project\obj\Debug\MainWindow.g.cs
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\Store_App_Project\Project\obj\Debug\App.g.cs
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\Store_App_Project\Project\obj\Debug\Project_MarkupCompile.cache
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\Store_App_Project\Project\obj\Debug\Project_MarkupCompile.lref
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\Store_App_Project\Project\obj\Debug\MainWindow.baml
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\Store_App_Project\Project\obj\Debug\Project.g.resources
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\Store_App_Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\Store_App_Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\Store_App_Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\Store_App_Project\Project\obj\Debug\Project.exe
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\Store_App_Project\Project\obj\Debug\Project.pdb
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\CS_WPF_Project\Project\bin\Debug\Project.exe.config
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\CS_WPF_Project\Project\bin\Debug\Project.exe
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\CS_WPF_Project\Project\bin\Debug\Project.pdb
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\CS_WPF_Project\Project\bin\Debug\Newtonsoft.Json.dll
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\CS_WPF_Project\Project\bin\Debug\Newtonsoft.Json.xml
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\CS_WPF_Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\CS_WPF_Project\Project\obj\Debug\MainWindow.g.cs
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\CS_WPF_Project\Project\obj\Debug\App.g.cs
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\CS_WPF_Project\Project\obj\Debug\Project_MarkupCompile.cache
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\CS_WPF_Project\Project\obj\Debug\Project_MarkupCompile.lref
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\CS_WPF_Project\Project\obj\Debug\MainWindow.baml
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\CS_WPF_Project\Project\obj\Debug\Project.g.resources
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\CS_WPF_Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\CS_WPF_Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\CS_WPF_Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\CS_WPF_Project\Project\obj\Debug\Project.exe
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\Store_App_Project\CS_WPF_Project\Project\obj\Debug\Project.pdb
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\CS_WPF_StoreApp_Project\Store_App_Project\Project\bin\Debug\Project.exe.config
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\CS_WPF_StoreApp_Project\Store_App_Project\Project\bin\Debug\Project.exe
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\CS_WPF_StoreApp_Project\Store_App_Project\Project\bin\Debug\Project.pdb
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\CS_WPF_StoreApp_Project\Store_App_Project\Project\bin\Debug\Newtonsoft.Json.dll
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\CS_WPF_StoreApp_Project\Store_App_Project\Project\bin\Debug\Newtonsoft.Json.xml
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\CS_WPF_StoreApp_Project\Store_App_Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\CS_WPF_StoreApp_Project\Store_App_Project\Project\obj\Debug\MainWindow.g.cs
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\CS_WPF_StoreApp_Project\Store_App_Project\Project\obj\Debug\App.g.cs
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\CS_WPF_StoreApp_Project\Store_App_Project\Project\obj\Debug\Project_MarkupCompile.cache
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\CS_WPF_StoreApp_Project\Store_App_Project\Project\obj\Debug\Project_MarkupCompile.lref
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\CS_WPF_StoreApp_Project\Store_App_Project\Project\obj\Debug\MainWindow.baml
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\CS_WPF_StoreApp_Project\Store_App_Project\Project\obj\Debug\Project.g.resources
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\CS_WPF_StoreApp_Project\Store_App_Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\CS_WPF_StoreApp_Project\Store_App_Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\CS_WPF_StoreApp_Project\Store_App_Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\CS_WPF_StoreApp_Project\Store_App_Project\Project\obj\Debug\Project.exe
+D:\IsDB BISEW\M02_C#\Final Project On StoreApp\CS_WPF_StoreApp_Project\Store_App_Project\Project\obj\Debug\Project.pdb

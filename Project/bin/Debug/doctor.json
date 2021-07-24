@@ -1,0 +1,28 @@
+{
+  "Doctor": [
+    {
+      "ID": "2",
+      "FirstName": "Shanta",
+      "LastName": "Sorna",
+      "Specialties": "Pediatrics",
+      "Email": "ss@gmail.com",
+      "Contact": "01714452238"
+    },
+    {
+      "ID": "3",
+      "FirstName": "Monika",
+      "LastName": "Mostafa",
+      "Specialties": "Dermatology",
+      "Email": "mm@gmail.com",
+      "Contact": "01817637989"
+    },
+    {
+      "ID": "1",
+      "FirstName": "Sharmin",
+      "LastName": "Borna",
+      "Specialties": "Gynecology",
+      "Email": "ssb@gmail.com",
+      "Contact": "01918681861"
+    }
+  ]
+}
